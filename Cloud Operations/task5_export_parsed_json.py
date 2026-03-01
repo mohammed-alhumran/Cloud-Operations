@@ -1,5 +1,5 @@
 # Task 5 — Export parsed results to JSON (Lesson 1)
-
+# Mohammed Alhumran
 import json
 from pathlib import Path
 from task1_parse_single import parse_log_line
