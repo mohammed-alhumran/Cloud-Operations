@@ -1,6 +1,6 @@
 # Task 1 — Parse a single line (Lesson 1)
 # Implement parse_log_line(line) and run the test cases.
-
+# Mohammed Alhumran
 def parse_log_line(line: str):
     """Return (timestamp, level, service, message) OR None if invalid format."""
     # TODO: 1) strip whole line
